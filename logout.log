@@ -1,0 +1,4 @@
+path:\\byd.com\SysVol\byd.com\Policies\{B1C9EB79-4E57-4838-B7D1-6CB38CCD6AB1}\User\Scripts\Logoff\sinforIP
+load sinforIP fail
+
+ERR: command-params format: logff.exe [ac-ip], ERR_NO: 385 
